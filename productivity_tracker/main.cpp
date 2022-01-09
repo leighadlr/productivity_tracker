@@ -13,7 +13,12 @@ int main() {
     
 // constructor for dayOfCycle object in the weekday class
     
-// start at day 1 as current day
+// input date from user (userDate)
+// assign userDayOne to that day
+// Determine day of the week for userDate, for printing in list below
+//
+// increment userDayOne within the loop (at the end) to print the MM/DD instead of "day 1"
+// once it is set up for one month, change the days in if statements or run loop twice
 
     for (int i = 1; i < 27; i++) {
         if ((i >= 1 && i <= 5) || (i >= 18 && i <=20) || (i >= 26 && i <= 27)) {
