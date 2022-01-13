@@ -2,8 +2,6 @@
 //  main.cpp
 //  productivity_tracker
 //
-//  Created by Leigh Arino on 1/9/22.
-//
 
 #include <iostream>
 #include <chrono>
@@ -70,7 +68,6 @@ int main() {
     
 // constructor for dayOfCycle object in the weekday class
     
-// input date from user (userDate)
 // assign userDayOne to that day
 // Determine day of the week for userDate, for printing in list below
 //
